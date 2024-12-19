@@ -14,46 +14,46 @@
 ### GET
 
 Get-запит на отримання всіх даних
-![](./images/getData.jpg)
+![](../test/images/getData.jpg)
 
 Get-запит на отримання даних за id
-![](./images/getDataId.jpg)
+![](../test/images/getDataId.jpg)
 
 ### POST
 Post-запит на додавання даних з усіма заповненими полями
-![](./images/Filled_Post.jpg)
+![](../test/images/Filled_Post.jpg)
 
 Post-запит на додавання даних без id, upload_date, last_edit_date
 
 *Примітка. Полю id призначено autoincrement, поле upload_date за замовчуванням отримує поточні дату та час, а поле last_edit_date за замовчуванням має значення null.*
-![](./images/NoIdPost.jpg)
+![](../test/images/NoIdPost.jpg)
 
 ### PUT
 Put-запит на оновлення id, name, description
 
 *Дані категорії до оновлення*
-![](./images/GetForPut.jpg)
+![](../test/images/GetForPut.jpg)
 
 *Оновлення даних категорії*
-![](./images/put.jpg)
+![](../test/images/put.jpg)
 
 ### DELETE
 Delete-запит на видалення категорії
 
 *Перевірка існування категорії*
-![](./images/getForDelete.jpg)
+![](../test/images/getForDelete.jpg)
 
 *Видалення категорії*
-![](./images/delete.jpg)
+![](../test/images/delete.jpg)
 
 *Перевірка видалення категорії*
-![](./images/Delete_approved.jpg)
+![](../test/images/Delete_approved.jpg)
 
 ### PATCH
 Patch-запит на оновлення id
 
 *Оновлення id*
-![](./images/PatchName.jpg)
+![](../test/images/PatchName.jpg)
 
 
 
